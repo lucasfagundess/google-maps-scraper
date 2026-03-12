@@ -51,6 +51,9 @@ outputs/dados_mais_recentes.xlsx: Cópia sempre atualizada da última execução
 
 logs/execucao_YYYYMMDD_HHMMSS.log: Relatório técnico de tudo o que aconteceu durante o processo.
 
+## ⚖️ Licença
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
 
 Desenvolvido por Lucas Fagundes da Silva
 
