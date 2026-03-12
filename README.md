@@ -27,14 +27,18 @@ Preencha o arquivo inputs/buscas.xlsx com as seguintes colunas:
 Tipo, Bairro, Cidade, Estado.
 
 4. Execução (Duas opções)
-Opção A (Desenvolvedor):
-Execute via terminal ou VS Code:
+
+**Opção A (Desenvolvedor):** Execute via terminal ou VS Code:
+```
+python main.py
+```
 
 ```
 python main.py
 ```
 
 Opção B (Usuário Final):
+
 Basta dar um duplo clique no arquivo RODAR_EXTRATOR.bat na raiz do projeto. Ele abrirá um terminal automático, configurará o ambiente e iniciará a automação.
 
 ⚙️ Configurações (Painel de Controle)
