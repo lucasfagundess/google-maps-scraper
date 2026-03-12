@@ -33,10 +33,6 @@ Tipo, Bairro, Cidade, Estado.
 python main.py
 ```
 
-```
-python main.py
-```
-
 Opção B (Usuário Final):
 
 Basta dar um duplo clique no arquivo RODAR_EXTRATOR.bat na raiz do projeto. Ele abrirá um terminal automático, configurará o ambiente e iniciará a automação.
