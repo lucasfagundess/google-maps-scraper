@@ -1,0 +1,23 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# --- IDEs (VS Code / PyCharm) ---
+.vscode/
+.idea/
+
+# --- RPA Data  ---
+# Ignora os arquivos gerados, mas mantém as pastas
+outputs/*.xlsx
+logs/*.log
+
+# Ignorar prints de erro que o bot tira
+*.png
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db

@@ -1,0 +1,10 @@
+# Automação de Navegador
+selenium=4.10.0
+webdriver-manager=4.0.0
+
+# Manipulação de Dados e Excel
+pandas=2.0.0
+openpyxl=3.1.0
+
+# Utilitários (Opcional, mas recomendado para progresso)
+tqdm=4.65.0
